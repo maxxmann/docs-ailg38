@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-187vd0.hartawin-pro.online/sitemap.xml
